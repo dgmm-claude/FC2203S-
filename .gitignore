@@ -1,0 +1,19 @@
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# 编辑器
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# 临时文件
+*.tmp
+*.temp
+*.bak
+*.log
+
+# 原始提示词备份（不纳入版本控制）
+docs/原始提示词备份.md
